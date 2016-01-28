@@ -1,6 +1,6 @@
 {
   "name": "todd-sum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use this to add two variables together.",
   "main": "index.js",
   "repository": {
