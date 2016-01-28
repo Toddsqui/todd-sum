@@ -1,0 +1,25 @@
+{
+  "name": "todd-sum",
+  "version": "1.0.0",
+  "description": "Use this to add two variables together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Toddsqui/todd-sum.git"
+  },
+  "keywords": [
+    "npm",
+    "sum",
+    "node",
+    "todd-sum"
+  ],
+  "author": "Todd <todd.squitieri@alumni.newschool.edu> (https://internationalhustling.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toddsqui/todd-sum/issues"
+  },
+  "homepage": "https://github.com/Toddsqui/todd-sum#readme"
+}
